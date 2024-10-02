@@ -1,0 +1,183 @@
+
+ @media screen and (min-width:900px){
+.overall{
+     
+    width: 1200px;
+    height: 700px;
+    background: rgb(197, 197, 161);
+    border: 1px solid blueviolet;
+
+}
+ }
+ 
+
+    
+.nav{
+    display:block;
+    height: 80px;
+    background: #192c44;
+    color: rgb(229, 232, 235);
+    align-content: center;
+    text-align:center;
+}
+
+ 
+ 
+
+    
+.one{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    background: #333232;
+    width: 250px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 23px;
+}
+
+ 
+
+    .two{
+    position: absolute;
+    width: 600px;
+    height:45px;
+    background: #333232;
+    border-radius: 7px;
+    margin-left: 450px;
+    margin-top:-500px;
+    color: #f6e5e5;
+    align-content: center;
+    padding-left:20px;
+
+}
+
+
+
+.three{
+
+position: absolute;
+    width: 180px;
+    height:140px;
+    background: #333232;
+    border-radius: 20px;
+    margin-left: 370px;
+    margin-top: -400px;
+    color: #b4a2a2;
+    align-content: center;
+    padding-left: 20px;
+}
+
+.four{
+    position: absolute;
+        width: 180px;
+        height: 140px;
+        background: #333232;
+        border-radius: 20px;
+        margin-left: 650px;
+        margin-top: -400px;
+        color: #b4a2a2;
+        align-content: center;
+        padding-left: 20px;
+}
+
+
+.five{
+    position: absolute;
+        width: 180px;
+        height: 140px;
+        background: #333232;
+        border-radius: 20px;
+        margin-left: 930px;
+        margin-top: -400px;
+        color: #b4a2a2;
+        align-content: center;
+        padding-left: 20px;
+}
+
+.six{
+    position: absolute;
+        width: 740px;
+        height: 160px;
+        background: #333232;
+        border-radius: 20px;
+        margin-left: 370px;
+        margin-top: -200px;
+        color:whitesmoke;
+        align-content:start;
+        padding-left: 25px;
+}
+
+@media screen and (min-width:900px){
+    
+.box {
+    margin-top: 60px;
+    margin-left: 400px;
+    width: 750px;
+    height: 1025px;
+    border: 1px solid black;
+    background-color:white;
+    padding: 10px;
+}
+span{
+    color: red;
+}
+.name{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size:20px;
+}
+.input{
+    margin-left: 15px;
+}
+#first{
+    font-size: 15px;
+    color: black;
+}
+#last{
+    font-size: 15px;
+    color: black;
+    margin-left: 157px;
+}
+#rate{
+    color: orange;
+}
+.col{
+    text-align: center;
+}
+.black{
+    background-color: gray;
+    height: 30px;
+    border: 1px solid black;
+    
+
+}
+.white{
+    padding: 40px ;
+    margin: 40px;
+}
+
+.odd{
+background-color: #c0c4c8;
+
+}
+tr{
+
+    font-size:medium;
+height: 50px;
+}
+
+
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.table2{
+  padding: 10px;
+}
+
+}
+
+
